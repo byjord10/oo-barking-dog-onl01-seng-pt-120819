@@ -1,1 +1,2 @@
-# Your code goes here!
+lucy = Dog.new
+lucy.name = "Lucy"
